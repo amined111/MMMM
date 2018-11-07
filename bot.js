@@ -9,7 +9,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Aesthetic without any manufacture`,"http://twitch.tv/amino12a")
+client.user.setGame(`Aesthetic without any manufacture`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
